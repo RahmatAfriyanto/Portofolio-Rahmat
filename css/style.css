@@ -171,11 +171,7 @@ overflow: hidden;
     padding-left: 20px;
     list-style-type: disclosure-closed;
 }
-.row {
-    display: flex; 
-    flex-wrap: wrap;
-    width: 50%;
-}
+
 
 
 
